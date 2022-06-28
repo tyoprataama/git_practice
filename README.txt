@@ -1,5 +1,2 @@
 Hello Git and Github
-SIUUUUU
-CHAAKKZZZ
-NINUNINUNINU
-ADADADADADA
+This is the first branch from my repo
